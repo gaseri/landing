@@ -1,0 +1,54 @@
+site_name: Miletic
+site_description: Scientific software consulting services offered by Dr. Vedran Miletic.
+site_author: Vedran Miletic
+site_url: https://www.miletic.net/
+copyright: Copyright 2022 – 2023, <a href="https://vedran.miletic.net/">Dr. Vedran Miletic</a>; all rights reserved. Hosted on <a href="https://pages.github.com/">GitHub Pages</a>. <a href="#__consent">Change cookie settings</a>.
+nav:
+  - Services: index.md
+  - Group: https://gaseri.org/
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.top
+  language: hr
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: orange
+      accent: orange
+      toggle:
+        icon: material/eye
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: orange
+      accent: orange
+      toggle:
+        icon: material/eye-outline
+        name: Switch to light mode
+  font:
+    text: IBM Plex Sans
+    code: IBM Plex Mono
+extra:
+  analytics:
+    provider: google
+    property: G-V3EKCHCVX7
+  consent:
+    title: Cookie consent
+    description: We use cookies to recognize your repeated visits and preferences, as well as to measure the effectiveness of our website and whether users find what they're searching for. With your consent, you're helping us to make our website better.
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/vedranmiletic
+      name: Miletic on Twitter
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/vedranmiletic
+      name: Miletic on LinkedIn
+    - icon: fontawesome/brands/github
+      link: https://github.com/vedranmiletic
+      name: Miletic on GitHub
+    - icon: fontawesome/brands/gitlab
+      link: https://gitlab.com/vedranmiletic
+      name: Miletic on GitLab
+plugins:
+  - social
