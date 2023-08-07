@@ -13,7 +13,7 @@ Based on the knowledge and experience I gathered in my group's [research](https:
 
 ## Scientific software development and maintenance
 
-I offer development and maintenance services for open-source or in-house developed scientific software. For example, [GROMACS](https://www.gromacs.org/), the open-source molecular dynamics simulation software my uses, [customizes, and maintains](https://group.miletic.net/en/people/principal-investigator/#gromacs), and [LLVM](https://llvm.org/), the collection of modular and reusable compiler and toolchain technologies I [patched to improve AMD Radeon support](https://group.miletic.net/en/people/principal-investigator/#llvm), can also be extended to fit your needs. The software development services I offer include, but are not limited to:
+I offer development and maintenance services for open-source or in-house developed scientific software. For example, [GROMACS](https://www.gromacs.org/), the open-source molecular dynamics simulation software my group uses, [customizes, and maintains](https://group.miletic.net/en/people/principal-investigator/#gromacs), and [LLVM](https://llvm.org/), the collection of modular and reusable compiler and toolchain technologies I [patched to improve AMD Radeon support](https://group.miletic.net/en/people/principal-investigator/#llvm), can also be extended to fit your needs. The software development services I offer include, but are not limited to:
 
 - adding a new feature, for example, developing a new module that implements a particular method,
 - improving existing functionality, for example, customizing the existing code for solving a particular problem,
