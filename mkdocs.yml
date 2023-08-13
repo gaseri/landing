@@ -11,7 +11,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.top
-  language: hr
+  language: en
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
