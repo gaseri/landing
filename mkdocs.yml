@@ -5,7 +5,7 @@ site_url: https://www.miletic.net/
 copyright: Copyright 2022 – 2023, <a href="https://vedran.miletic.net/">Dr. Vedran Miletic</a>; all rights reserved. Hosted on <a href="https://pages.github.com/">GitHub Pages</a>. <a href="#__consent">Change cookie settings</a>.
 nav:
   - Services: index.md
-  - Group: https://gaseri.org/
+  - Group: https://group.miletic.net/
 theme:
   name: material
   features:
