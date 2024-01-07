@@ -2,7 +2,7 @@ site_name: Miletic
 site_description: Scientific software consulting services offered by Dr. Vedran Miletic.
 site_author: Vedran Miletic
 site_url: https://www.miletic.net/
-copyright: Copyright 2022 – 2024, <a href="https://vedran.miletic.net/">Dr. Vedran Miletic</a>; all rights reserved. Hosted on <a href="https://pages.github.com/">GitHub Pages</a>. <a href="#__consent">Change cookie settings</a>.
+copyright: Copyright 2022 – 2024, <a href="https://vedran.miletic.net/">Dr. Vedran Miletic</a>; all rights reserved. Hosted on <a href="https://pages.github.com/">GitHub Pages</a>. Infrastructure maintained by <a href="https://noc.miletic.net/">Miletic Family network operations center</a>. <a href="#__consent">Change cookie settings</a>.
 nav:
   - Services: index.md
   - Group: https://group.miletic.net/
