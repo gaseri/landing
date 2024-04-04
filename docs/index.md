@@ -9,7 +9,7 @@ My name is Dr. Vedran Miletic and I am the [principal investigator](https://grou
 
 ![Vedran Miletic](https://vedran.miletic.net/images/vm.jpg)
 
-Based on the knowledge and experience I gathered in my group's [research](https://group.miletic.net/en/projects/) [work](https://group.miletic.net/en/publications/), I offer services for scientific software, including **development**, **testing**, **writing of documentation**, **porting**, and **deployment** for academic and industrial needs.
+Based on the knowledge and experience I gathered in my group's [research](https://group.miletic.net/en/projects/) [work](https://group.miletic.net/en/publications/), I offer consulting services for scientific software, including **development**, **testing**, **writing of documentation**, **porting**, and **deployment** for academic and industrial needs.
 
 ## Scientific software development and maintenance
 
