@@ -1,0 +1,9 @@
+extends: default
+
+rules:
+  document-end:
+    present: false
+  document-start:
+    present: false
+  line-length:
+    level: warning
