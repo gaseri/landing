@@ -35,6 +35,9 @@ theme:
   font:
     text: IBM Plex Sans
     code: IBM Plex Mono
+markdown_extensions:
+  - attr_list
+  - md_in_html
 extra:
   analytics:
     provider: google
