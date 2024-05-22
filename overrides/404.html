@@ -1,0 +1,23 @@
+{% extends "main.html" %}
+
+{% block content %}
+  <h1>404 - Not found</h1>
+  <div id="vm-redirection-message"></div>
+{% endblock %}
+
+{% block scripts %}
+  {{ super() }}
+  <script>
+    window.onload = function () {
+      const currentLocation = window.location.href;
+      if (currentLocation.startsWith('https://www.miletic.net')) {
+        const redirectLocation = currentLocation.replace(
+          'https://www.miletic.net',
+          'https://apps.group.miletic.net'
+        );
+        document.getElementById('vm-redirection-message').innerHTML = '<p>Please follow <a href="' + redirectLocation + '">this link</a>.</p>';
+        window.location.replace(redirectLocation);
+      }
+    }
+  </script>
+{% endblock %}
