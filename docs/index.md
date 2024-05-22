@@ -13,7 +13,10 @@ Based on the knowledge and experience I gathered in my group's [research](https:
 
 ## My portfolio of prior work
 
-While I contributed to dozens of projects over time I would like to highlight two: [GROMACS](https://www.gromacs.org/), the open-source molecular dynamics simulation software my group uses, and I [extend and maintain in to serve our research requirements](https://group.miletic.net/en/people/principal-investigator/#gromacs), and [LLVM](https://llvm.org/), the collection of modular and reusable compiler and toolchain technologies I [patched to improve AMD Radeon support](https://group.miletic.net/en/people/principal-investigator/#llvm).
+While I contributed to dozens of projects over time, I would like to highlight two:
+
+- [GROMACS](https://www.gromacs.org/), the open-source molecular dynamics simulation software used by my group, which I [develop on an ongoing basis to serve our research requirements](https://group.miletic.net/en/people/principal-investigator/#gromacs), and
+- [LLVM](https://llvm.org/), the collection of modular and reusable compiler and toolchain technologies, which I [patched to improve AMD Radeon Graphics Processing Unit and Instinct Accelerator support](https://group.miletic.net/en/people/principal-investigator/#llvm).
 
 For more details and other projects, see the complete listing of [contributions to open-source software](https://group.miletic.net/en/people/principal-investigator/#open-source-software-contributions).
 
