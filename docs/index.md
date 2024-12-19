@@ -43,6 +43,8 @@ For more details and other projects, see the complete listing of [contributions 
 
     I offer writing user- or developer-oriented documentation for existing scientific software, including the documentation of application programming interfaces (APIs). I also offer a setup of the documentation build process for producing printable and web-friendly output from the common source, with the style that matches your taste.
 
+    For a portfolio of prior technical writings, see my posts on [GASERI blog](https://group.miletic.net/en/blog/). For an example of a produced (API) documentation, see [RxDock documentation](https://rxdock.gitlab.io/documentation/devel/html/) and [its API documentation](https://rxdock.gitlab.io/api-documentation/devel/html/).
+
 - ### Cross-platform porting
 
     ---
