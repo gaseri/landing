@@ -65,3 +65,7 @@ extra:
       name: Miletic on GitLab
 plugins:
   - social
+  - redirects:
+      redirect_maps:
+        'group.md': 'https://group.miletic.net/'
+        'blog.md': 'https://group.miletic.net/en/blog/'
